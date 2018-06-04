@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "122523888279",
+    "firebase_url": "https://customerrelationshipmana-2c2b4.firebaseio.com",
+    "project_id": "customerrelationshipmana-2c2b4",
+    "storage_bucket": "customerrelationshipmana-2c2b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122523888279:android:20868aa49912c8bf",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.cms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122523888279-7rdnp2hc24cmm0keohq6l1t62ji2f74q.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "122523888279-7rdnp2hc24cmm0keohq6l1t62ji2f74q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4k12c5rY_DXDhRNrOzWWaqWsYqDm43ZI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
